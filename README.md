@@ -58,7 +58,7 @@ Edit `src/config.h` to customize display settings, graph dimensions, and other p
 
 ## License
 
-[Add your license here]
+This code is licensed under GPL v3.  
 
 ## Contributing
 
